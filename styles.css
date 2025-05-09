@@ -189,12 +189,12 @@ button:hover {
 .number {
     font-size: 32px;
     font-weight: 700;
-    color: var(--grayish-blue);
+    color: rgb(204, 102, 102);
 }
 
 .article-content h3 {
     font-size: 18px;
-    color: var(--very-dark-blue);
+    color: rgb(10, 10, 10);
     cursor: pointer;
 }
 
